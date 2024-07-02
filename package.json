@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@types/jest": "^29.2.5",
+    "jest": "^29.3.1"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node gateway.js"
+  },
+  "dependencies": {
+    "@apollo/gateway": "^2.8.2",
+    "apollo-server": "^3.13.0"
+  }
+}
