@@ -43,7 +43,7 @@ Follow these instructions to set up the project on your local machine.
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/Federated_API_Gateway.git
+    git clone https://github.com/bantoinese83/Federated_API_Gateway.git
     cd Federated_API_Gateway
     ```
 
